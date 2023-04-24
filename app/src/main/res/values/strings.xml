@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CiceroneApp</string>
+    <string name="open_profile">Open profile</string>
+    <string name="profile">Profile</string>
+</resources>
